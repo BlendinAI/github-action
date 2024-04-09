@@ -1,7 +1,7 @@
 {
-  "name": "ai18n-actions",
-  "version": "0.0.22",
-  "description": "A GitHub Action to upload ai18n-strings.yml to a hardcoded API endpoint",
+  "name": "blendin-github-action",
+  "version": "0.0.23",
+  "description": "A GitHub Action to upload blendin strings to a hardcoded API endpoint",
   "main": "index.js",
   "scripts": {
     "build": "ncc build index.js"
